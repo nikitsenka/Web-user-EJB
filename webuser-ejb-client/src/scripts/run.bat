@@ -1,0 +1,1 @@
+java -jar webuser-ejb-client-jar-with-dependencies.jar userimport.properties userdata.xml

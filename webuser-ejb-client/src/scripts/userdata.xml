@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<WebUsers>
+    <WebUser>
+        <StoreId>1</StoreId>
+        <ImportedUserId>64</ImportedUserId>
+        <FirstName>SHAUN</FirstName>
+        <LastName>PEYMAN</LastName>
+        <Email>shaun@ifgdfgdfg.co.nz</Email>
+        <OtherPhoneNumber></OtherPhoneNumber>
+        <MobileNumber>02116859</MobileNumber >
+        <Password>xxx</Password>
+        <StreetAddress>3 FOSTER CRES</StreetAddress>
+        <Suburb>SNELLS BEACH</Suburb>
+        <City>Sydney</City>
+        <CountryCode>NZ</CountryCode>
+        <PostCode>1052</PostCode>
+        <DateCreated>2008-12-15 18:51:25</DateCreated >
+        <LastLoginDate>2008-12-15 18:51:25</LastLoginDate>
+        <StaffId></StaffId>
+        <LoyaltyMember>
+            <ExternalId>DW00000064</ExternalId>
+            <Balance>2.00</Balance>
+            <Points>2.00</Points>
+        </LoyaltyMember>
+        <Parameters>
+            <Parameter>
+                <Name>EMAIL_SUB_WEEKLY_SPECIALS</Name>
+                <Value>Y</Value>
+            </Parameter>
+            <Parameter>
+                <Name> EMAIL_SUB_STORE_INFO </Name>
+                <Value>Y</Value>
+            </Parameter>
+            <Parameter>
+                <Name>EMAIL_SUB_INTEREST_SNOW</Name>
+                <Value>Y</Value>
+            </Parameter>
+            <Parameter>
+                <Name> EMAIL_SUB_INTEREST_BIKE </Name>
+                <Value>Y</Value>
+            </Parameter>
+            <Parameter>
+                <Name> EMAIL_SUB_INTEREST_WATER</Name>
+                <Value>Y</Value>
+            </Parameter>
+            <Parameter>
+                <Name> EMAIL_SUB_INTEREST_OUTDOOR</Name>
+                <Value>Y</Value>
+            </Parameter>
+        </Parameters>
+    </WebUser>
+</WebUsers>
